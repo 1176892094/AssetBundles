@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.10f1
+CRC: 726687446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4f9dcddd696d048d20e627acd2086b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6df112b181be69949d14a6c0edd246bf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a6c6527f85f0b3129ae795f66c6a217e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 62
+  Script: {instanceID: 0}
+- Class: 66
+  Script: {instanceID: 0}
+- Class: 68
+  Script: {instanceID: 0}
+- Class: 70
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 673ac8d1b9badd24dad62678aa8b9194, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cec1459f5144836ac87a7a69722b05a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6fc4ddccc2b4d45821658f66d8f36e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7575552ae7d498094e4aa7c6a20303f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68a2df068b4b48f88143501c455a5abf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dfdbf9b30b334333ac49fe739ffb52e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6c074a3103d4aca9bc871b8893631f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6a7c780660e4b1c9aea33f1a03ba7bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e28c62a6f03b47dfa7be0509093890b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 251
+  Script: {instanceID: 0}
+- Class: 19719996
+  Script: {instanceID: 0}
+- Class: 156049354
+  Script: {instanceID: 0}
+- Class: 483693784
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+- Class: 1839735485
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/Scenes/TechScene.unity
+- Assets/AssetBundles/Scenes/GameScene.unity
+- Assets/AssetBundles/Scenes/LoginScene.unity
+Dependencies:
+- /Users/charlotte/Documents/GitHub/Astraia-Game/AssetBundles/IOS/animations
+- /Users/charlotte/Documents/GitHub/Astraia-Game/AssetBundles/IOS/materials
+- /Users/charlotte/Documents/GitHub/Astraia-Game/AssetBundles/IOS/prefabs
+- /Users/charlotte/Documents/GitHub/Astraia-Game/AssetBundles/IOS/settings
+- /Users/charlotte/Documents/GitHub/Astraia-Game/AssetBundles/IOS/textures
