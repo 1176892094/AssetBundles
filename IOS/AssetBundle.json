@@ -1,0 +1,71 @@
+{
+  "Version": 100,
+  "Bundles": [
+    {
+      "Size": 1296,
+      "Name": "IOS",
+      "Guid": "51e2fef7-0e08-4692-ba82-416f0ec706c0",
+      "Hash": "BCD8F6C1CFB63CC5B5F52C11539D8EA1"
+    },
+    {
+      "Size": 19843,
+      "Name": "animations",
+      "Guid": "552867f2-0ca6-4aed-96ad-0ae202914ffa",
+      "Hash": "F6D034737AC63DF410D8C7CF26FAEBAF"
+    },
+    {
+      "Size": 11797723,
+      "Name": "audios",
+      "Guid": "51b39c24-59f1-49c6-a186-1a781c766b12",
+      "Hash": "CE72F4CEE44D3386CD8D69BD96DBF154"
+    },
+    {
+      "Size": 19189,
+      "Name": "datatable",
+      "Guid": "2e140a5d-1a97-424e-857e-94e7a9f00d19",
+      "Hash": "7C53D75FF65CE4D7F5798E198E792BAB"
+    },
+    {
+      "Size": 1839625,
+      "Name": "hotupdate",
+      "Guid": "331dc8e5-034c-44b4-8d31-4e83699a29c2",
+      "Hash": "D5637561CB8F2AB123A2091836AA7C11"
+    },
+    {
+      "Size": 443655,
+      "Name": "materials",
+      "Guid": "7284171f-52b7-4d4a-b31f-06511b480320",
+      "Hash": "C5B42473FF518D7289458E430C3DE0AF"
+    },
+    {
+      "Size": 8561179,
+      "Name": "prefabs",
+      "Guid": "cb828031-e3cf-46b3-8d14-a514ed8cd961",
+      "Hash": "617C4379A772C59596C5ED364A0BD2B0"
+    },
+    {
+      "Size": 8499327,
+      "Name": "scenes",
+      "Guid": "8cd8820e-b751-4600-b3c1-44c6f5291853",
+      "Hash": "8A6B3E4B3B5878EDC657DA4C7DF30700"
+    },
+    {
+      "Size": 7640,
+      "Name": "settings",
+      "Guid": "ca06f4fe-758f-47e8-919e-c8911124bccd",
+      "Hash": "FF61312C831575184A244A24F12820DF"
+    },
+    {
+      "Size": 13720,
+      "Name": "shaders",
+      "Guid": "5c0f417b-73db-4df4-ae4e-ab6921f55fc9",
+      "Hash": "34E3643E22FC8047C16EB7E4C18A925A"
+    },
+    {
+      "Size": 2884882,
+      "Name": "textures",
+      "Guid": "16a88895-1aa2-4454-9725-03d6754d5bd0",
+      "Hash": "A6F9B286AC1956FA01F360AEE57D8122"
+    }
+  ]
+}
