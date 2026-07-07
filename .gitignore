@@ -1,3 +1,13 @@
 *.idea
 *.DS_Store
 *.manifest
+StandaloneOSX/audios
+StandaloneOSX/datatable
+StandaloneOSX/materials
+StandaloneOSX/prefabs
+StandaloneOSX/scenes
+StandaloneOSX/settings
+StandaloneOSX/shaders
+StandaloneOSX/StandaloneOSX
+StandaloneOSX/textures
+StandaloneOSX/animations
